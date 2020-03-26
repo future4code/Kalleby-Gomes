@@ -1,0 +1,30 @@
+* {
+
+}
+
+body {
+    margin: 0;
+}
+
+header {
+    width: 100vw;
+    height: 12vh;
+    background-color: MediumSeaGreen;
+    display: grid;
+    grid-template-columns: 30% 50%;
+    grid-template-rows: 12vh;
+}
+
+h1 {
+    font-size: 5vh;
+    color:rgb(255, 154, 40);
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#searsh{
+    display: inline-flex;
+    font-size: 200px;
+}
