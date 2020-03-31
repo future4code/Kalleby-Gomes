@@ -1,0 +1,47 @@
+[33mcommit 91d4dde2fec59a7f9605619fdd23899f1bb49e65[m[33m ([m[1;36mHEAD -> [m[1;32msemana2-aula8[m[33m, [m[1;31morigin/semana2-aula8[m[33m)[m
+Author: Kalleby Gomes <kallebyfg@gmail.com>
+Date:   Thu Mar 26 16:58:04 2020 -0300
+
+    produzi muito pouco hoje
+
+[33mcommit 30ccd4a3604fb94b94312dc4a2886ec8f0117a01[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Kalleby Gomes <kallebyfg@gmail.com>
+Date:   Wed Mar 25 14:30:51 2020 -0300
+
+    mechendo
+
+[33mcommit 2422456921d157e25f3fe63a21f04db4d73acd93[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: e8ee3e6 8b70dc9
+Author: kallfg <62228028+kallfg@users.noreply.github.com>
+Date:   Tue Mar 24 14:01:26 2020 -0300
+
+    Merge pull request #3 from future4code/semana2-aula1
+    
+    Ativei a função do botão 'Voltar' da página comprar, com <a href>
+
+[33mcommit e8ee3e639c776becca3ce89debdd39f657dee697[m
+Merge: 3fc48b2 d077a0c
+Author: kallfg <62228028+kallfg@users.noreply.github.com>
+Date:   Tue Mar 24 13:59:50 2020 -0300
+
+    Merge pull request #1 from future4code/semana1-aula2
+    
+    Um pouco sobre mim
+
+[33mcommit 8b70dc9bc29e4f24d275feac54334bec59b83060[m[33m ([m[1;31morigin/semana2-aula1[m[33m, [m[1;32msemana2-aula1[m[33m)[m
+Author: Kalleby <kallebyfg@gmail.com>
+Date:   Mon Mar 23 16:46:30 2020 -0300
+
+    Ativei a função do botão 'Voltar' da página comprar, com <a href>
+
+[33mcommit d077a0c8baa0d9602f5f6ea1f7c351e5f6ecf1a1[m[33m ([m[1;31morigin/semana1-aula2[m[33m, [m[1;32msemana1-aula2[m[33m)[m
+Author: Kalleby <kallebyfg@gmail.com>
+Date:   Tue Mar 17 23:32:35 2020 -0300
+
+    Um pouco sobre mim
+
+[33mcommit 3fc48b2edcdfa1958302c412225a4b5fe959be65[m
+Author: João Vinicius Alves <jvp.alves@hotmail.com>
+Date:   Tue Mar 17 07:14:09 2020 -0300
+
+    Initial commit
