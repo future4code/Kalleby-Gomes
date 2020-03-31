@@ -1,0 +1,27 @@
+body{
+    border: 0;
+}
+
+p{
+    font-size: 20px;
+}
+
+.container{
+    display: grid;
+    width: 100vw;
+    height: 800px;
+    grid-template-columns: ;
+
+}
+
+#header{
+    display: grid;
+    grid-template-columns: 1tr;
+}
+
+#block1{
+    display: grid;
+    background-color:blue;
+    width: 100vw;
+    height: 100vh;
+}
