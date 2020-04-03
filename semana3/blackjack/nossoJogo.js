@@ -10,31 +10,38 @@
  * 
  * 
  */
-console.log("Bem vido ao jogo Blackjack!")
+console.log("Bem vido ao jogo Blackjack!\n ")
 let pergunta = window.confirm("Quer iniciar uma nova rodada?")
 
 
-let jogador = []
-let computador = []
+let cartas = []
+let nipes = []
 
    if(pergunta){
-      for(i = 0; i < 4; i++)
+
+      for(i = 0; i < 4; i++){
          const carta = comprarCarta()
+         cartas.push(carta.valor)
+         nipes.push(carta.texto)
+      }
 
-         let carta1 = carta.texto
-         let valorCarta1 = carta.valor
-         jogador.push()
-         console.log(carta1+" testando "+valorCarta1)
-      
-         let carta2 = carta.texto
-         let valorCarta2 = carta.valor
-         console.log(carta1+" testando "+valorCarta1)
-
-
-
-      console.log()
    } else {
       console.log("O jogo acabou")
+   }
+
+   let pontosUsuario = cartas[0] + cartas[1]
+   let pontosComputador = cartas[2] + cartas[3]
+
+
+   console.log("Usuário - cartas: "+nipes[0]+" "+nipes[1]+" - pontuação "+pontosUsuario)
+   console.log("Computador - cartas: "+nipes[2]+" "+nipes[3]+" - pontuação "+pontosComputador)
+   
+   if(pontosUsuario > pontosComputador){
+      console.log("O usuário ganhou!")
+   } else if(pontosUsuario < pontosComputador){
+      console.log("O computador ganhou!")
+   } else{
+      console.log("Empate!")
    }
 
 
